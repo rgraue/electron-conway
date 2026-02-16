@@ -1,7 +1,7 @@
 {
-  "name": "react-quickstart",
+  "name": "@rgraue/electron-conway",
   "version": "1.0.1",
-  "description": "simple react quickstart",
+  "description": "game of life",
   "main": "public/main.js",
   "scripts": {
     "start": "electron .",
