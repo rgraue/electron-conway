@@ -122,9 +122,9 @@ export const Grid = ({height = 10, width = 10}) => {
         <button onClick={() => {
             pauseRef.current = false;
             doFrame();
-        }}>Play</button>
+        }}>play</button>
         <button onClick={() => {
             pauseRef.current = true;
-        }}>Pause</button>
+        }}>pause</button>
     </>
 }
